@@ -182,7 +182,7 @@ a:hover, a:active {
       margin-right: 3px; }
     .sidebar .social-links li {
       display: inline;
-      padding: 0 4px;
+      padding: 0 10px;
       line-height: 0; }
     .sidebar .social-links a {
       color: #565654; }
